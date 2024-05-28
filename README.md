@@ -1,0 +1,1 @@
+[ESTUDOS] - Projeto para estudos. Acompanhando o curso C# - trabalhando com arquivos, da plataforma Alura.
